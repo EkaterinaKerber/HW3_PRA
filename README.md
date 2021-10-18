@@ -1,5 +1,5 @@
 # HW3_PRA
-## SemanticScholar robot description
+## Semantic Scholar robot description
 The robot is used to automate the process of https://www.semanticscholar.org/ literature collection for the user-defined topic. Result of the process is an email with attached excel with info about each found article. 
 
 In the homework robot was used to collect articles on the theme "Big Data Metals" from first 3 pages.
